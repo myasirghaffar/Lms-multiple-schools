@@ -1,0 +1,7 @@
+{
+  "name": "EduChain - Multi-Tenant SaaS LMS",
+  "description": "A high-performance, multi-tenant Learning Management System for schools and colleges, built with React, Supabase, and Tailwind CSS. Features role-based access, academic management, automated grading, and secure data isolation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
